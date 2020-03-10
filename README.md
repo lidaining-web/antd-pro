@@ -1,5 +1,7 @@
 # Ant Design Pro
 
+English | [简体中文](./README-zh.md)
+
 This project is initialized with [Ant Design Pro](https://pro.ant.design). Follow is the quick guide for how to use.
 
 ## Environment Prepare
